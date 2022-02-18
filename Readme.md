@@ -1,0 +1,1 @@
+Esse projeto consiste no desenvolvimento de um portfólio para a aplicação dos conceitos aprendidos no curso de WebDesign completo em HTML + CSS.
